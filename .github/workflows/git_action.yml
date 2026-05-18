@@ -1,0 +1,56 @@
+name: Run Stock Price Management Script
+
+on:
+  workflow_dispatch:   # Manual trigger
+  # schedule:
+  #   - cron: "0,15,30,45 4-10 * * 1-5"   # Every 15 mins during 9:30–15:45 IST Mon–Fri
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Cache pip packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage all changes
+          git add . || true
+          
+          # Only proceed if there are actual changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated data update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            
+            # Pull latest changes and rebase your new commit on top of them
+            git pull --rebase origin main
+            
+            # Now push the combined work
+            git push
+          else
+            echo "No changes to commit"
+          fi
