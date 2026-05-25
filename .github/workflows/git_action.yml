@@ -4,6 +4,7 @@ on:
   workflow_dispatch:   # Manual trigger
   schedule:
     - cron: "*/5 4-10 * * 1-5"   # Every 5 mins during 9:30–15:45 IST Mon–Fri
+    - cron: "30 7 * * *"   # One-time trigger at 1:00 PM IST today
 
 jobs:
   run-script:
