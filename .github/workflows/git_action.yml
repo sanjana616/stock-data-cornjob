@@ -1,10 +1,10 @@
 name: Run Stock Price Management Script
 
 on:
-  workflow_dispatch:   # Manual trigger
-  schedule:
-    - cron: "*/5 4-10 * * 1-5"   # Every 5 mins during 9:30–15:45 IST Mon–Fri
-    - cron: "30 7 * * *"   # One-time trigger at 1:00 PM IST today
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-script:
@@ -12,20 +12,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
-
-      - name: Cache pip packages
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -39,18 +32,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Stage all changes
-          git add . || true
-          
-          # Only proceed if there are actual changes to commit
+
+          git add .
+
           if ! git diff --cached --quiet; then
-            git commit -m "Automated data update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            
-            # Pull latest changes and rebase your new commit on top of them
+            git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git pull --rebase origin main
-            
-            # Now push the combined work
             git push
           else
             echo "No changes to commit"
