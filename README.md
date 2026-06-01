@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-01 15:55:37 IST
+Last updated: 2026-06-01 16:01:01 IST
 
 ## ALKEM_NS
 
@@ -38,16 +38,16 @@ Last updated: 2026-06-01 15:55:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-01 15:29:00</td><td>1433.699951171875</td><td>9985</td></tr>
   <tr><td>2026-06-01 15:28:00</td><td>1433.199951171875</td><td>9226</td></tr>
-  <tr><td>2026-06-01 15:27:00</td><td>1433.9000244140625</td><td>36860</td></tr>
 </table>
 
 ## BHARATFORG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-01 15:29:00</td><td>1922.699951171875</td><td>2866</td></tr>
   <tr><td>2026-06-01 15:28:00</td><td>1918.0999755859375</td><td>6952</td></tr>
-  <tr><td>2026-06-01 15:27:00</td><td>1917.4000244140625</td><td>18032</td></tr>
 </table>
 
 ## BHEL_NS
@@ -102,8 +102,8 @@ Last updated: 2026-06-01 15:55:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-01 15:29:00</td><td>288.20001220703125</td><td>11871</td></tr>
   <tr><td>2026-06-01 15:28:00</td><td>288.29998779296875</td><td>74718</td></tr>
-  <tr><td>2026-06-01 15:27:00</td><td>288.25</td><td>35487</td></tr>
 </table>
 
 ## FORTIS_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-01 15:55:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-01 15:29:00</td><td>1239.699951171875</td><td>18149</td></tr>
   <tr><td>2026-06-01 15:28:00</td><td>1237.199951171875</td><td>49479</td></tr>
-  <tr><td>2026-06-01 15:27:00</td><td>1237.699951171875</td><td>227407</td></tr>
 </table>
 
