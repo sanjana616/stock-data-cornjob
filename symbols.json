@@ -20,5 +20,11 @@
         "HEROMOTOCO.NS",
         "HINDPETRO.NS",
         "ICICIBANK.NS"
+    ],
+    "Indexes": [
+        "^NSEI",
+        "^NSEBANK",
+        "^BSESN",
+        "^NSEMDCP50"
     ]
 }
