@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-05 15:55:42 IST
+Last updated: 2026-06-05 16:01:03 IST
 
 ## 📊 MARKET INDEXES
 
@@ -25,7 +25,7 @@ Last updated: 2026-06-05 15:55:42 IST
   <tr><td>BHEL_NS</td><td>2026-06-05 15:28:00</td><td>386.45</td><td>31890</td><td>39.07</td><td>386.88</td><td>-0.41</td><td>386.62</td><td>SELL</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-05 15:28:00</td><td>3876.00</td><td>19036</td><td>43.36</td><td>3879.91</td><td>-1.77</td><td>3881.19</td><td>SELL</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-06-05 15:28:00</td><td>1431.30</td><td>7979</td><td>31.71</td><td>1434.64</td><td>-1.17</td><td>1434.89</td><td>SELL</td></tr>
-  <tr><td>COLPAL_NS</td><td>2026-06-05 15:27:00</td><td>2004.00</td><td>2331</td><td>67.28</td><td>2000.34</td><td>1.27</td><td>2000.85</td><td>BUY</td></tr>
+  <tr><td>COLPAL_NS</td><td>2026-06-05 15:28:00</td><td>2002.90</td><td>2050</td><td>61.67</td><td>2000.58</td><td>1.31</td><td>2001.12</td><td>BUY</td></tr>
   <tr><td>DABUR_NS</td><td>2026-06-05 15:28:00</td><td>425.00</td><td>12476</td><td>61.70</td><td>424.51</td><td>0.29</td><td>424.62</td><td>BUY</td></tr>
   <tr><td>DIXON_NS</td><td>2026-06-05 15:28:00</td><td>11425.00</td><td>1664</td><td>45.27</td><td>11430.37</td><td>-7.57</td><td>11424.96</td><td>HOLD</td></tr>
   <tr><td>FEDERALBNK_NS</td><td>2026-06-05 15:28:00</td><td>304.95</td><td>63729</td><td>67.68</td><td>304.42</td><td>0.57</td><td>304.69</td><td>HOLD</td></tr>
