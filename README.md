@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-08 15:55:39 IST
+Last updated: 2026-06-08 16:01:01 IST
 
 ## 📊 MARKET INDEXES
 
@@ -20,7 +20,7 @@ Last updated: 2026-06-08 15:55:39 IST
   <tr><td>APLAPOLLO_NS</td><td>2026-06-08 15:28:00</td><td>1813.10</td><td>5950</td><td>46.15</td><td>1813.12</td><td>-4.04</td><td>1809.80</td><td>HOLD</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-08 15:28:00</td><td>141.04</td><td>169797</td><td>45.42</td><td>141.07</td><td>-0.04</td><td>141.04</td><td>HOLD</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-08 15:28:00</td><td>952.70</td><td>9885</td><td>22.08</td><td>957.30</td><td>-1.77</td><td>956.79</td><td>SELL</td></tr>
-  <tr><td>AUROPHARMA_NS</td><td>2026-06-08 15:27:00</td><td>1448.00</td><td>6198</td><td>32.65</td><td>1451.23</td><td>-1.68</td><td>1450.73</td><td>SELL</td></tr>
+  <tr><td>AUROPHARMA_NS</td><td>2026-06-08 15:28:00</td><td>1446.40</td><td>4611</td><td>28.59</td><td>1450.77</td><td>-1.86</td><td>1450.28</td><td>SELL</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-06-08 15:28:00</td><td>1889.60</td><td>4903</td><td>39.55</td><td>1891.96</td><td>-3.75</td><td>1889.93</td><td>SELL</td></tr>
   <tr><td>BHEL_NS</td><td>2026-06-08 15:28:00</td><td>383.85</td><td>39438</td><td>27.16</td><td>385.74</td><td>-1.04</td><td>385.83</td><td>SELL</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-08 15:28:00</td><td>3906.90</td><td>9886</td><td>35.75</td><td>3913.55</td><td>-5.45</td><td>3912.78</td><td>SELL</td></tr>
