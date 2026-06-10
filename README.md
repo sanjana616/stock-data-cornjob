@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-10 15:31:19 IST
+Last updated: 2026-06-10 15:35:38 IST
 
 ## 📊 MARKET INDEXES
 
@@ -8,7 +8,7 @@ Last updated: 2026-06-10 15:31:19 IST
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
   <tr><td>NSEI</td><td>2026-06-10 15:28:00</td><td>23212.85</td><td>0</td><td>47.08</td><td>23211.69</td><td>-8.78</td><td>-</td><td>HOLD</td></tr>
   <tr><td>NSEBANK</td><td>2026-06-10 15:28:00</td><td>55118.25</td><td>0</td><td>51.18</td><td>55099.97</td><td>-18.34</td><td>-</td><td>BUY</td></tr>
-  <tr><td>BSESN</td><td>2026-06-10 15:14:00</td><td>73948.58</td><td>0</td><td>28.89</td><td>74046.03</td><td>-44.08</td><td>-</td><td>SELL</td></tr>
+  <tr><td>BSESN</td><td>2026-06-10 15:18:00</td><td>74008.11</td><td>0</td><td>41.73</td><td>74035.69</td><td>-33.87</td><td>-</td><td>HOLD</td></tr>
   <tr><td>NSEMDCP50</td><td>2026-06-10 15:28:00</td><td>17009.35</td><td>0</td><td>49.90</td><td>17003.58</td><td>-8.57</td><td>-</td><td>HOLD</td></tr>
 </table>
 
