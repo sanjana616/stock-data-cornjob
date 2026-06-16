@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-16 15:45:59 IST
+Last updated: 2026-06-16 15:50:53 IST
 
 ## 📊 MARKET INDEXES
 
@@ -17,10 +17,10 @@ Last updated: 2026-06-16 15:45:59 IST
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
   <tr><td>ALKEM_NS</td><td>2026-06-16 15:28:00</td><td>5346.50</td><td>993</td><td>47.34</td><td>5346.95</td><td>-1.11</td><td>5344.92</td><td>HOLD</td></tr>
-  <tr><td>APLAPOLLO_NS</td><td>2026-06-16 15:27:00</td><td>1835.70</td><td>4395</td><td>28.92</td><td>1839.41</td><td>-2.67</td><td>1838.15</td><td>SELL</td></tr>
+  <tr><td>APLAPOLLO_NS</td><td>2026-06-16 15:28:00</td><td>1836.60</td><td>2250</td><td>34.18</td><td>1839.14</td><td>-2.55</td><td>1837.80</td><td>SELL</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-16 15:28:00</td><td>158.35</td><td>115336</td><td>40.93</td><td>158.40</td><td>-0.12</td><td>158.33</td><td>HOLD</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-16 15:28:00</td><td>1023.45</td><td>10700</td><td>59.09</td><td>1023.01</td><td>0.64</td><td>1023.20</td><td>HOLD</td></tr>
-  <tr><td>AUROPHARMA_NS</td><td>2026-06-16 15:27:00</td><td>1399.10</td><td>19060</td><td>66.62</td><td>1395.71</td><td>0.72</td><td>1396.43</td><td>BUY</td></tr>
+  <tr><td>AUROPHARMA_NS</td><td>2026-06-16 15:28:00</td><td>1399.20</td><td>52064</td><td>66.94</td><td>1396.04</td><td>0.90</td><td>1396.96</td><td>BUY</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-06-16 15:27:00</td><td>2010.70</td><td>3492</td><td>43.39</td><td>2011.59</td><td>-0.56</td><td>2011.33</td><td>SELL</td></tr>
   <tr><td>BHEL_NS</td><td>2026-06-16 15:27:00</td><td>383.75</td><td>30410</td><td>42.97</td><td>383.98</td><td>-0.18</td><td>383.90</td><td>SELL</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-16 15:28:00</td><td>4169.00</td><td>19308</td><td>65.00</td><td>4162.55</td><td>4.17</td><td>4164.71</td><td>BUY</td></tr>
