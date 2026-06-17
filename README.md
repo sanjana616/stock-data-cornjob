@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-17 15:45:45 IST
+Last updated: 2026-06-17 15:50:52 IST
 
 ## 📊 MARKET INDEXES
 
@@ -16,7 +16,7 @@ Last updated: 2026-06-17 15:45:45 IST
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>ALKEM_NS</td><td>2026-06-17 15:27:00</td><td>5337.00</td><td>908</td><td>30.44</td><td>5344.39</td><td>-3.24</td><td>5343.73</td><td>SELL</td></tr>
+  <tr><td>ALKEM_NS</td><td>2026-06-17 15:28:00</td><td>5340.50</td><td>581</td><td>40.00</td><td>5344.02</td><td>-3.13</td><td>5343.35</td><td>SELL</td></tr>
   <tr><td>APLAPOLLO_NS</td><td>2026-06-17 15:28:00</td><td>1854.70</td><td>2760</td><td>52.49</td><td>1854.80</td><td>1.48</td><td>1856.07</td><td>HOLD</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-17 15:28:00</td><td>159.50</td><td>22214</td><td>47.79</td><td>159.56</td><td>0.05</td><td>159.58</td><td>SELL</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-17 15:28:00</td><td>1022.00</td><td>4947</td><td>58.17</td><td>1020.96</td><td>0.32</td><td>1020.89</td><td>BUY</td></tr>
