@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-18 15:55:37 IST
+Last updated: 2026-06-18 16:01:02 IST
 
 ## 📊 MARKET INDEXES
 
@@ -21,11 +21,11 @@ Last updated: 2026-06-18 15:55:37 IST
   <tr><td>ASHOKLEY_NS</td><td>2026-06-18 15:28:00</td><td>158.35</td><td>89226</td><td>46.19</td><td>158.41</td><td>-0.02</td><td>158.41</td><td>SELL</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-18 15:28:00</td><td>1025.20</td><td>9080</td><td>47.03</td><td>1025.57</td><td>0.20</td><td>1025.71</td><td>SELL</td></tr>
   <tr><td>AUROPHARMA_NS</td><td>2026-06-18 15:28:00</td><td>1446.60</td><td>5851</td><td>67.92</td><td>1444.96</td><td>1.53</td><td>1445.52</td><td>HOLD</td></tr>
-  <tr><td>BHARATFORG_NS</td><td>2026-06-18 15:27:00</td><td>2019.00</td><td>3934</td><td>50.31</td><td>2019.40</td><td>0.51</td><td>2019.89</td><td>HOLD</td></tr>
+  <tr><td>BHARATFORG_NS</td><td>2026-06-18 15:28:00</td><td>2020.00</td><td>6222</td><td>53.07</td><td>2019.45</td><td>0.51</td><td>2019.74</td><td>HOLD</td></tr>
   <tr><td>BHEL_NS</td><td>2026-06-18 15:28:00</td><td>405.85</td><td>46418</td><td>46.97</td><td>406.05</td><td>0.11</td><td>406.38</td><td>SELL</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-18 15:28:00</td><td>4014.60</td><td>17437</td><td>50.95</td><td>4013.61</td><td>-1.31</td><td>4011.37</td><td>BUY</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-06-18 15:28:00</td><td>1477.60</td><td>21402</td><td>36.17</td><td>1480.19</td><td>-2.11</td><td>1478.98</td><td>SELL</td></tr>
-  <tr><td>COLPAL_NS</td><td>2026-06-18 15:27:00</td><td>2025.70</td><td>3409</td><td>45.94</td><td>2026.61</td><td>-0.59</td><td>2026.70</td><td>SELL</td></tr>
+  <tr><td>COLPAL_NS</td><td>2026-06-18 15:28:00</td><td>2025.40</td><td>5760</td><td>44.89</td><td>2026.49</td><td>-0.61</td><td>2026.49</td><td>SELL</td></tr>
   <tr><td>DABUR_NS</td><td>2026-06-18 15:28:00</td><td>428.25</td><td>21053</td><td>44.56</td><td>428.54</td><td>0.04</td><td>428.67</td><td>SELL</td></tr>
   <tr><td>DIXON_NS</td><td>2026-06-18 15:28:00</td><td>12663.00</td><td>5957</td><td>50.79</td><td>12662.17</td><td>-0.47</td><td>12661.61</td><td>HOLD</td></tr>
   <tr><td>FEDERALBNK_NS</td><td>2026-06-18 15:28:00</td><td>320.90</td><td>22999</td><td>61.02</td><td>320.71</td><td>0.12</td><td>320.70</td><td>BUY</td></tr>
