@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-18 16:01:02 IST
+Last updated: 2026-06-18 16:05:37 IST
 
 ## 📊 MARKET INDEXES
 
@@ -16,7 +16,7 @@ Last updated: 2026-06-18 16:01:02 IST
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>ALKEM_NS</td><td>2026-06-18 15:27:00</td><td>5376.50</td><td>473</td><td>57.30</td><td>5373.70</td><td>3.05</td><td>5372.10</td><td>HOLD</td></tr>
+  <tr><td>ALKEM_NS</td><td>2026-06-18 15:28:00</td><td>5373.00</td><td>641</td><td>51.54</td><td>5373.63</td><td>2.65</td><td>5373.31</td><td>HOLD</td></tr>
   <tr><td>APLAPOLLO_NS</td><td>2026-06-18 15:28:00</td><td>1861.10</td><td>3993</td><td>62.79</td><td>1860.41</td><td>0.65</td><td>1860.79</td><td>HOLD</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-18 15:28:00</td><td>158.35</td><td>89226</td><td>46.19</td><td>158.41</td><td>-0.02</td><td>158.41</td><td>SELL</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-18 15:28:00</td><td>1025.20</td><td>9080</td><td>47.03</td><td>1025.57</td><td>0.20</td><td>1025.71</td><td>SELL</td></tr>
@@ -31,7 +31,7 @@ Last updated: 2026-06-18 16:01:02 IST
   <tr><td>FEDERALBNK_NS</td><td>2026-06-18 15:28:00</td><td>320.90</td><td>22999</td><td>61.02</td><td>320.71</td><td>0.12</td><td>320.70</td><td>BUY</td></tr>
   <tr><td>FORTIS_NS</td><td>2026-06-18 15:28:00</td><td>960.00</td><td>6026</td><td>62.62</td><td>958.77</td><td>0.57</td><td>958.74</td><td>BUY</td></tr>
   <tr><td>GMRAIRPORT_NS</td><td>2026-06-18 15:28:00</td><td>110.34</td><td>124293</td><td>32.92</td><td>110.50</td><td>-0.05</td><td>110.49</td><td>SELL</td></tr>
-  <tr><td>GODREJPROP_NS</td><td>2026-06-18 15:27:00</td><td>1810.00</td><td>7236</td><td>47.57</td><td>1811.23</td><td>1.24</td><td>1812.05</td><td>SELL</td></tr>
+  <tr><td>GODREJPROP_NS</td><td>2026-06-18 15:28:00</td><td>1807.70</td><td>11906</td><td>38.34</td><td>1810.90</td><td>0.82</td><td>1810.96</td><td>SELL</td></tr>
   <tr><td>HAVELLS_NS</td><td>2026-06-18 15:28:00</td><td>1194.00</td><td>6322</td><td>50.67</td><td>1194.49</td><td>0.89</td><td>1195.05</td><td>HOLD</td></tr>
   <tr><td>HEROMOTOCO_NS</td><td>2026-06-18 15:28:00</td><td>5025.00</td><td>4419</td><td>68.60</td><td>5021.55</td><td>1.95</td><td>5022.31</td><td>BUY</td></tr>
   <tr><td>HINDPETRO_NS</td><td>2026-06-18 15:28:00</td><td>401.05</td><td>42821</td><td>44.38</td><td>401.56</td><td>0.26</td><td>401.75</td><td>SELL</td></tr>
