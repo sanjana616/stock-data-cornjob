@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-19 15:45:54 IST
+Last updated: 2026-06-19 15:50:44 IST
 
 ## 📊 MARKET INDEXES
 
@@ -16,8 +16,8 @@ Last updated: 2026-06-19 15:45:54 IST
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>ALKEM_NS</td><td>2026-06-19 15:27:00</td><td>5376.50</td><td>1556</td><td>54.32</td><td>5375.29</td><td>3.44</td><td>5377.22</td><td>HOLD</td></tr>
-  <tr><td>APLAPOLLO_NS</td><td>2026-06-19 15:27:00</td><td>1871.60</td><td>5024</td><td>54.20</td><td>1871.44</td><td>1.39</td><td>1872.53</td><td>HOLD</td></tr>
+  <tr><td>ALKEM_NS</td><td>2026-06-19 15:28:00</td><td>5380.50</td><td>1045</td><td>58.98</td><td>5375.79</td><td>3.45</td><td>5377.31</td><td>HOLD</td></tr>
+  <tr><td>APLAPOLLO_NS</td><td>2026-06-19 15:28:00</td><td>1872.10</td><td>6732</td><td>55.90</td><td>1871.50</td><td>1.30</td><td>1872.34</td><td>HOLD</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-19 15:28:00</td><td>156.87</td><td>247274</td><td>58.20</td><td>156.75</td><td>0.09</td><td>156.82</td><td>HOLD</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-19 15:28:00</td><td>1031.25</td><td>19817</td><td>39.60</td><td>1032.79</td><td>-0.76</td><td>1032.00</td><td>HOLD</td></tr>
   <tr><td>AUROPHARMA_NS</td><td>2026-06-19 15:28:00</td><td>1499.50</td><td>18716</td><td>61.43</td><td>1498.44</td><td>1.83</td><td>1499.24</td><td>HOLD</td></tr>
