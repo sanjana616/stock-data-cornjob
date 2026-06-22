@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-22 15:40:50 IST
+Last updated: 2026-06-22 15:45:54 IST
 
 ## 📊 MARKET INDEXES
 
@@ -8,7 +8,7 @@ Last updated: 2026-06-22 15:40:50 IST
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
   <tr><td>NSEI</td><td>2026-06-22 15:28:00</td><td>24084.55</td><td>0</td><td>25.69</td><td>24096.18</td><td>-9.18</td><td>-</td><td>SELL</td></tr>
   <tr><td>NSEBANK</td><td>2026-06-22 15:28:00</td><td>57886.40</td><td>0</td><td>36.88</td><td>57914.92</td><td>-15.64</td><td>-</td><td>SELL</td></tr>
-  <tr><td>BSESN</td><td>2026-06-22 15:23:00</td><td>77107.98</td><td>0</td><td>37.27</td><td>77125.22</td><td>-16.70</td><td>-</td><td>HOLD</td></tr>
+  <tr><td>BSESN</td><td>2026-06-22 15:28:00</td><td>77096.72</td><td>0</td><td>33.14</td><td>77115.32</td><td>-15.52</td><td>-</td><td>HOLD</td></tr>
   <tr><td>NSEMDCP50</td><td>2026-06-22 15:28:00</td><td>17790.90</td><td>0</td><td>38.65</td><td>17797.50</td><td>-4.08</td><td>-</td><td>SELL</td></tr>
 </table>
 
@@ -20,7 +20,7 @@ Last updated: 2026-06-22 15:40:50 IST
   <tr><td>APLAPOLLO_NS</td><td>2026-06-22 15:28:00</td><td>1848.50</td><td>2305</td><td>28.83</td><td>1852.85</td><td>-1.49</td><td>1852.58</td><td>SELL</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-22 15:27:00</td><td>157.62</td><td>530166</td><td>71.64</td><td>157.16</td><td>0.26</td><td>157.35</td><td>BUY</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-06-22 15:28:00</td><td>1044.90</td><td>5879</td><td>60.25</td><td>1042.48</td><td>1.17</td><td>1046.11</td><td>BUY</td></tr>
-  <tr><td>AUROPHARMA_NS</td><td>2026-06-22 15:27:00</td><td>1494.00</td><td>4990</td><td>54.56</td><td>1492.81</td><td>0.39</td><td>1492.46</td><td>BUY</td></tr>
+  <tr><td>AUROPHARMA_NS</td><td>2026-06-22 15:28:00</td><td>1495.50</td><td>18385</td><td>58.89</td><td>1493.07</td><td>0.55</td><td>1492.68</td><td>BUY</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-06-22 15:27:00</td><td>2106.90</td><td>9110</td><td>57.81</td><td>2105.33</td><td>2.98</td><td>2106.60</td><td>HOLD</td></tr>
   <tr><td>BHEL_NS</td><td>2026-06-22 15:28:00</td><td>412.10</td><td>79480</td><td>59.06</td><td>411.56</td><td>-0.05</td><td>411.36</td><td>BUY</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-22 15:28:00</td><td>4032.40</td><td>11847</td><td>50.93</td><td>4032.52</td><td>1.03</td><td>4032.79</td><td>HOLD</td></tr>
