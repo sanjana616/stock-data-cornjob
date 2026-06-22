@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-22 15:50:51 IST
+Last updated: 2026-06-22 15:55:41 IST
 
 ## 📊 MARKET INDEXES
 
@@ -34,7 +34,7 @@ Last updated: 2026-06-22 15:50:51 IST
   <tr><td>GODREJPROP_NS</td><td>2026-06-22 15:27:00</td><td>1796.90</td><td>1267</td><td>39.28</td><td>1798.43</td><td>-2.16</td><td>1796.56</td><td>SELL</td></tr>
   <tr><td>HAVELLS_NS</td><td>2026-06-22 15:28:00</td><td>1181.60</td><td>1750</td><td>51.69</td><td>1181.45</td><td>0.03</td><td>1181.52</td><td>BUY</td></tr>
   <tr><td>HEROMOTOCO_NS</td><td>2026-06-22 15:28:00</td><td>4982.30</td><td>2156</td><td>44.34</td><td>4983.50</td><td>-2.73</td><td>4981.75</td><td>HOLD</td></tr>
-  <tr><td>HINDPETRO_NS</td><td>2026-06-22 15:27:00</td><td>392.20</td><td>26440</td><td>28.68</td><td>393.09</td><td>-0.39</td><td>393.11</td><td>SELL</td></tr>
+  <tr><td>HINDPETRO_NS</td><td>2026-06-22 15:28:00</td><td>392.50</td><td>31763</td><td>36.41</td><td>393.03</td><td>-0.39</td><td>393.02</td><td>SELL</td></tr>
   <tr><td>ICICIBANK_NS</td><td>2026-06-22 15:28:00</td><td>1350.30</td><td>20047</td><td>35.37</td><td>1351.55</td><td>-0.83</td><td>1351.10</td><td>HOLD</td></tr>
 </table>
 
