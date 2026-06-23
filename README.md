@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-23 15:50:48 IST
+Last updated: 2026-06-23 15:56:01 IST
 
 ## 📊 MARKET INDEXES
 
@@ -25,11 +25,11 @@ Last updated: 2026-06-23 15:50:48 IST
   <tr><td>BHEL_NS</td><td>2026-06-23 15:28:00</td><td>400.20</td><td>49059</td><td>55.00</td><td>399.90</td><td>-0.02</td><td>399.76</td><td>BUY</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-23 15:28:00</td><td>3941.20</td><td>21690</td><td>48.19</td><td>3941.33</td><td>-1.54</td><td>3938.90</td><td>HOLD</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-06-23 15:28:00</td><td>1480.20</td><td>4421</td><td>44.70</td><td>1480.79</td><td>-0.36</td><td>1480.49</td><td>SELL</td></tr>
-  <tr><td>COLPAL_NS</td><td>2026-06-23 15:27:00</td><td>1980.50</td><td>2236</td><td>49.60</td><td>1980.46</td><td>-0.29</td><td>1980.57</td><td>HOLD</td></tr>
+  <tr><td>COLPAL_NS</td><td>2026-06-23 15:28:00</td><td>1980.60</td><td>3552</td><td>50.13</td><td>1980.47</td><td>-0.24</td><td>1980.55</td><td>BUY</td></tr>
   <tr><td>DABUR_NS</td><td>2026-06-23 15:27:00</td><td>419.85</td><td>14217</td><td>48.80</td><td>419.84</td><td>-0.07</td><td>419.83</td><td>HOLD</td></tr>
   <tr><td>DIXON_NS</td><td>2026-06-23 15:28:00</td><td>11887.00</td><td>3239</td><td>21.40</td><td>11921.07</td><td>-20.37</td><td>11913.19</td><td>SELL</td></tr>
   <tr><td>FEDERALBNK_NS</td><td>2026-06-23 15:28:00</td><td>319.55</td><td>29108</td><td>41.84</td><td>319.81</td><td>-0.13</td><td>319.77</td><td>SELL</td></tr>
-  <tr><td>FORTIS_NS</td><td>2026-06-23 15:27:00</td><td>969.35</td><td>8967</td><td>29.98</td><td>971.27</td><td>-1.06</td><td>971.17</td><td>SELL</td></tr>
+  <tr><td>FORTIS_NS</td><td>2026-06-23 15:28:00</td><td>969.90</td><td>4451</td><td>36.00</td><td>971.14</td><td>-1.03</td><td>970.99</td><td>SELL</td></tr>
   <tr><td>GMRAIRPORT_NS</td><td>2026-06-23 15:28:00</td><td>107.28</td><td>79616</td><td>44.23</td><td>107.32</td><td>-0.10</td><td>107.25</td><td>HOLD</td></tr>
   <tr><td>GODREJPROP_NS</td><td>2026-06-23 15:28:00</td><td>1787.90</td><td>2895</td><td>41.94</td><td>1789.71</td><td>-1.04</td><td>1789.21</td><td>HOLD</td></tr>
   <tr><td>HAVELLS_NS</td><td>2026-06-23 15:27:00</td><td>1172.50</td><td>7040</td><td>35.73</td><td>1174.44</td><td>-1.44</td><td>1173.63</td><td>SELL</td></tr>
