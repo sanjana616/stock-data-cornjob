@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-24 16:01:00 IST
+Last updated: 2026-06-24 16:05:35 IST
 
 ## 📊 MARKET INDEXES
 
@@ -31,7 +31,7 @@ Last updated: 2026-06-24 16:01:00 IST
   <tr><td>FEDERALBNK_NS</td><td>2026-06-24 15:28:00</td><td>325.10</td><td>40791</td><td>45.13</td><td>325.17</td><td>-0.15</td><td>325.06</td><td>HOLD</td></tr>
   <tr><td>FORTIS_NS</td><td>2026-06-24 15:28:00</td><td>975.85</td><td>7678</td><td>53.54</td><td>975.24</td><td>-0.17</td><td>975.04</td><td>HOLD</td></tr>
   <tr><td>GMRAIRPORT_NS</td><td>2026-06-24 15:28:00</td><td>108.02</td><td>257561</td><td>44.95</td><td>108.07</td><td>-0.04</td><td>108.03</td><td>HOLD</td></tr>
-  <tr><td>GODREJPROP_NS</td><td>2026-06-24 15:27:00</td><td>1818.00</td><td>3339</td><td>43.30</td><td>1820.33</td><td>-0.47</td><td>1820.98</td><td>SELL</td></tr>
+  <tr><td>GODREJPROP_NS</td><td>2026-06-24 15:28:00</td><td>1817.00</td><td>14956</td><td>41.11</td><td>1820.02</td><td>-0.67</td><td>1820.30</td><td>SELL</td></tr>
   <tr><td>HAVELLS_NS</td><td>2026-06-24 15:28:00</td><td>1187.00</td><td>2960</td><td>61.32</td><td>1185.95</td><td>-0.01</td><td>1185.61</td><td>BUY</td></tr>
   <tr><td>HEROMOTOCO_NS</td><td>2026-06-24 15:28:00</td><td>4888.10</td><td>3769</td><td>31.01</td><td>4894.91</td><td>-5.05</td><td>4893.63</td><td>SELL</td></tr>
   <tr><td>HINDPETRO_NS</td><td>2026-06-24 15:28:00</td><td>412.80</td><td>44234</td><td>54.06</td><td>412.66</td><td>0.24</td><td>412.84</td><td>HOLD</td></tr>
