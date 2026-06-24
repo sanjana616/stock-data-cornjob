@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-24 15:50:50 IST
+Last updated: 2026-06-24 15:55:35 IST
 
 ## 📊 MARKET INDEXES
 
@@ -17,12 +17,12 @@ Last updated: 2026-06-24 15:50:50 IST
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
   <tr><td>ALKEM_NS</td><td>2026-06-24 15:28:00</td><td>5440.00</td><td>1640</td><td>65.37</td><td>5429.32</td><td>-1.35</td><td>5427.63</td><td>BUY</td></tr>
-  <tr><td>APLAPOLLO_NS</td><td>2026-06-24 15:27:00</td><td>1824.30</td><td>6774</td><td>43.91</td><td>1824.95</td><td>-2.27</td><td>1823.07</td><td>HOLD</td></tr>
+  <tr><td>APLAPOLLO_NS</td><td>2026-06-24 15:28:00</td><td>1827.00</td><td>2863</td><td>52.86</td><td>1825.15</td><td>-1.83</td><td>1823.08</td><td>BUY</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-06-24 15:28:00</td><td>155.02</td><td>56379</td><td>53.62</td><td>154.96</td><td>0.00</td><td>154.98</td><td>BUY</td></tr>
-  <tr><td>AUBANK_NS</td><td>2026-06-24 15:27:00</td><td>1071.55</td><td>69578</td><td>71.63</td><td>1067.83</td><td>1.18</td><td>1067.74</td><td>BUY</td></tr>
+  <tr><td>AUBANK_NS</td><td>2026-06-24 15:28:00</td><td>1071.90</td><td>29861</td><td>72.64</td><td>1068.21</td><td>1.34</td><td>1068.18</td><td>BUY</td></tr>
   <tr><td>AUROPHARMA_NS</td><td>2026-06-24 15:28:00</td><td>1529.80</td><td>12316</td><td>43.94</td><td>1530.62</td><td>-0.41</td><td>1530.44</td><td>HOLD</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-06-24 15:28:00</td><td>2117.30</td><td>11976</td><td>42.47</td><td>2120.14</td><td>-1.52</td><td>2118.52</td><td>HOLD</td></tr>
-  <tr><td>BHEL_NS</td><td>2026-06-24 15:27:00</td><td>402.35</td><td>24989</td><td>45.11</td><td>402.42</td><td>-0.32</td><td>402.13</td><td>HOLD</td></tr>
+  <tr><td>BHEL_NS</td><td>2026-06-24 15:28:00</td><td>402.30</td><td>30970</td><td>44.15</td><td>402.41</td><td>-0.29</td><td>402.11</td><td>HOLD</td></tr>
   <tr><td>BSE_NS</td><td>2026-06-24 15:28:00</td><td>3882.50</td><td>14685</td><td>40.97</td><td>3885.30</td><td>-3.30</td><td>3882.68</td><td>HOLD</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-06-24 15:28:00</td><td>1498.00</td><td>9673</td><td>48.71</td><td>1498.02</td><td>-0.32</td><td>1497.76</td><td>HOLD</td></tr>
   <tr><td>COLPAL_NS</td><td>2026-06-24 15:27:00</td><td>1962.00</td><td>2591</td><td>34.44</td><td>1964.97</td><td>-2.23</td><td>1963.16</td><td>HOLD</td></tr>
