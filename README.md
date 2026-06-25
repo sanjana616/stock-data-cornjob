@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-25 15:50:47 IST
+Last updated: 2026-06-25 15:55:34 IST
 
 ## 📊 MARKET INDEXES
 
@@ -26,7 +26,7 @@ Last updated: 2026-06-25 15:50:47 IST
   <tr><td>BSE_NS</td><td>2026-06-25 15:28:00</td><td>3873.50</td><td>11975</td><td>51.18</td><td>3872.41</td><td>-0.55</td><td>3872.29</td><td>BUY</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-06-25 15:28:00</td><td>1492.80</td><td>26545</td><td>46.71</td><td>1493.10</td><td>-0.34</td><td>1492.87</td><td>HOLD</td></tr>
   <tr><td>COLPAL_NS</td><td>2026-06-25 15:28:00</td><td>1990.90</td><td>3615</td><td>43.83</td><td>1992.47</td><td>-0.33</td><td>1993.22</td><td>SELL</td></tr>
-  <tr><td>DABUR_NS</td><td>2026-06-25 15:27:00</td><td>423.70</td><td>16704</td><td>45.74</td><td>423.75</td><td>-0.34</td><td>423.54</td><td>SELL</td></tr>
+  <tr><td>DABUR_NS</td><td>2026-06-25 15:28:00</td><td>423.65</td><td>17415</td><td>44.74</td><td>423.74</td><td>-0.31</td><td>423.52</td><td>SELL</td></tr>
   <tr><td>DIXON_NS</td><td>2026-06-25 15:27:00</td><td>11994.00</td><td>5242</td><td>37.94</td><td>12013.70</td><td>-21.42</td><td>11998.26</td><td>HOLD</td></tr>
   <tr><td>FEDERALBNK_NS</td><td>2026-06-25 15:27:00</td><td>323.95</td><td>49817</td><td>49.12</td><td>324.02</td><td>0.04</td><td>324.14</td><td>SELL</td></tr>
   <tr><td>FORTIS_NS</td><td>2026-06-25 15:27:00</td><td>952.10</td><td>8054</td><td>37.69</td><td>953.20</td><td>-1.27</td><td>952.40</td><td>HOLD</td></tr>
@@ -34,7 +34,7 @@ Last updated: 2026-06-25 15:50:47 IST
   <tr><td>GODREJPROP_NS</td><td>2026-06-25 15:28:00</td><td>1849.90</td><td>4651</td><td>44.65</td><td>1851.59</td><td>-0.65</td><td>1851.68</td><td>HOLD</td></tr>
   <tr><td>HAVELLS_NS</td><td>2026-06-25 15:28:00</td><td>1178.30</td><td>4265</td><td>49.06</td><td>1178.11</td><td>-0.65</td><td>1177.40</td><td>HOLD</td></tr>
   <tr><td>HEROMOTOCO_NS</td><td>2026-06-25 15:28:00</td><td>4904.00</td><td>6072</td><td>56.48</td><td>4900.42</td><td>0.49</td><td>4902.24</td><td>BUY</td></tr>
-  <tr><td>HINDPETRO_NS</td><td>2026-06-25 15:27:00</td><td>409.40</td><td>24915</td><td>52.11</td><td>409.10</td><td>-0.15</td><td>409.08</td><td>BUY</td></tr>
+  <tr><td>HINDPETRO_NS</td><td>2026-06-25 15:28:00</td><td>409.35</td><td>29047</td><td>51.56</td><td>409.12</td><td>-0.12</td><td>409.09</td><td>BUY</td></tr>
   <tr><td>ICICIBANK_NS</td><td>2026-06-25 15:27:00</td><td>1389.80</td><td>78257</td><td>59.76</td><td>1388.65</td><td>0.82</td><td>1388.91</td><td>BUY</td></tr>
 </table>
 
