@@ -1,40 +1,40 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-25 09:31:08 IST
+Last updated: 2026-06-25 09:45:44 IST
 
 ## 📊 MARKET INDEXES
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>NSEI</td><td>2026-06-25 09:30:00</td><td>24146.90</td><td>0</td><td>54.10</td><td>-</td><td>-</td><td>-</td><td>HOLD</td></tr>
-  <tr><td>NSEBANK</td><td>2026-06-25 09:30:00</td><td>58434.35</td><td>0</td><td>45.50</td><td>-</td><td>-</td><td>-</td><td>HOLD</td></tr>
-  <tr><td>BSESN</td><td>2026-06-25 09:15:00</td><td>77384.71</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>HOLD</td></tr>
-  <tr><td>NSEMDCP50</td><td>2026-06-25 09:30:00</td><td>17742.85</td><td>0</td><td>24.28</td><td>-</td><td>-</td><td>-</td><td>HOLD</td></tr>
+  <tr><td>NSEI</td><td>2026-06-25 09:44:00</td><td>24140.50</td><td>0</td><td>50.15</td><td>24140.52</td><td>0.03</td><td>-</td><td>HOLD</td></tr>
+  <tr><td>NSEBANK</td><td>2026-06-25 09:44:00</td><td>58457.70</td><td>0</td><td>51.62</td><td>58450.46</td><td>1.40</td><td>-</td><td>HOLD</td></tr>
+  <tr><td>BSESN</td><td>2026-06-25 09:29:00</td><td>77418.43</td><td>0</td><td>55.43</td><td>-</td><td>-</td><td>-</td><td>HOLD</td></tr>
+  <tr><td>NSEMDCP50</td><td>2026-06-25 09:44:00</td><td>17729.40</td><td>0</td><td>40.82</td><td>17734.48</td><td>-9.66</td><td>-</td><td>HOLD</td></tr>
 </table>
 
 ## 📈 STOCKS
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>ALKEM_NS</td><td>2026-06-25 09:29:00</td><td>5464.00</td><td>34</td><td>42.89</td><td>-</td><td>-</td><td>5463.70</td><td>HOLD</td></tr>
-  <tr><td>APLAPOLLO_NS</td><td>2026-06-25 09:29:00</td><td>1802.80</td><td>1331</td><td>13.15</td><td>-</td><td>-</td><td>1811.46</td><td>HOLD</td></tr>
-  <tr><td>ASHOKLEY_NS</td><td>2026-06-25 09:30:00</td><td>159.32</td><td>396699</td><td>72.90</td><td>-</td><td>-</td><td>158.69</td><td>HOLD</td></tr>
-  <tr><td>AUBANK_NS</td><td>2026-06-25 09:29:00</td><td>1068.80</td><td>8173</td><td>36.84</td><td>-</td><td>-</td><td>1071.10</td><td>HOLD</td></tr>
-  <tr><td>AUROPHARMA_NS</td><td>2026-06-25 09:29:00</td><td>1547.00</td><td>4270</td><td>52.07</td><td>-</td><td>-</td><td>1546.30</td><td>HOLD</td></tr>
-  <tr><td>BHARATFORG_NS</td><td>2026-06-25 09:30:00</td><td>2135.20</td><td>3987</td><td>52.86</td><td>-</td><td>-</td><td>2136.20</td><td>HOLD</td></tr>
-  <tr><td>BHEL_NS</td><td>2026-06-25 09:30:00</td><td>404.90</td><td>12741</td><td>51.54</td><td>-</td><td>-</td><td>404.51</td><td>HOLD</td></tr>
-  <tr><td>BSE_NS</td><td>2026-06-25 09:30:00</td><td>3884.20</td><td>12592</td><td>27.26</td><td>-</td><td>-</td><td>3897.54</td><td>HOLD</td></tr>
-  <tr><td>COFORGE_NS</td><td>2026-06-25 09:30:00</td><td>1507.00</td><td>9292</td><td>41.24</td><td>-</td><td>-</td><td>1508.06</td><td>HOLD</td></tr>
-  <tr><td>COLPAL_NS</td><td>2026-06-25 09:30:00</td><td>1990.00</td><td>1428</td><td>76.31</td><td>-</td><td>-</td><td>1985.27</td><td>HOLD</td></tr>
-  <tr><td>DABUR_NS</td><td>2026-06-25 09:30:00</td><td>428.25</td><td>18999</td><td>78.45</td><td>-</td><td>-</td><td>425.76</td><td>HOLD</td></tr>
-  <tr><td>DIXON_NS</td><td>2026-06-25 09:30:00</td><td>12160.00</td><td>10461</td><td>36.43</td><td>-</td><td>-</td><td>12183.97</td><td>HOLD</td></tr>
-  <tr><td>FEDERALBNK_NS</td><td>2026-06-25 09:30:00</td><td>324.05</td><td>21005</td><td>52.09</td><td>-</td><td>-</td><td>323.44</td><td>HOLD</td></tr>
-  <tr><td>FORTIS_NS</td><td>2026-06-25 09:30:00</td><td>971.40</td><td>588</td><td>43.49</td><td>-</td><td>-</td><td>970.34</td><td>HOLD</td></tr>
-  <tr><td>GMRAIRPORT_NS</td><td>2026-06-25 09:30:00</td><td>109.77</td><td>94216</td><td>66.06</td><td>-</td><td>-</td><td>109.40</td><td>HOLD</td></tr>
-  <tr><td>GODREJPROP_NS</td><td>2026-06-25 09:30:00</td><td>1851.30</td><td>5946</td><td>66.13</td><td>-</td><td>-</td><td>1847.80</td><td>HOLD</td></tr>
-  <tr><td>HAVELLS_NS</td><td>2026-06-25 09:30:00</td><td>1191.70</td><td>1783</td><td>42.01</td><td>-</td><td>-</td><td>1192.39</td><td>HOLD</td></tr>
-  <tr><td>HEROMOTOCO_NS</td><td>2026-06-25 09:30:00</td><td>5034.20</td><td>13395</td><td>80.57</td><td>-</td><td>-</td><td>5015.16</td><td>HOLD</td></tr>
-  <tr><td>HINDPETRO_NS</td><td>2026-06-25 09:30:00</td><td>416.80</td><td>10575</td><td>42.57</td><td>-</td><td>-</td><td>416.92</td><td>HOLD</td></tr>
-  <tr><td>ICICIBANK_NS</td><td>2026-06-25 09:30:00</td><td>1386.10</td><td>34860</td><td>46.68</td><td>-</td><td>-</td><td>1386.74</td><td>HOLD</td></tr>
+  <tr><td>ALKEM_NS</td><td>2026-06-25 09:44:00</td><td>5463.50</td><td>107</td><td>44.99</td><td>5466.54</td><td>-1.71</td><td>5466.74</td><td>HOLD</td></tr>
+  <tr><td>APLAPOLLO_NS</td><td>2026-06-25 09:44:00</td><td>1802.50</td><td>983</td><td>32.00</td><td>1807.58</td><td>-4.40</td><td>1806.07</td><td>HOLD</td></tr>
+  <tr><td>ASHOKLEY_NS</td><td>2026-06-25 09:44:00</td><td>158.95</td><td>253467</td><td>46.23</td><td>159.24</td><td>0.22</td><td>159.57</td><td>HOLD</td></tr>
+  <tr><td>AUBANK_NS</td><td>2026-06-25 09:44:00</td><td>1061.50</td><td>9936</td><td>24.92</td><td>1066.25</td><td>-2.41</td><td>1066.14</td><td>HOLD</td></tr>
+  <tr><td>AUROPHARMA_NS</td><td>2026-06-25 09:44:00</td><td>1548.90</td><td>6095</td><td>55.71</td><td>1547.79</td><td>0.50</td><td>1548.26</td><td>HOLD</td></tr>
+  <tr><td>BHARATFORG_NS</td><td>2026-06-25 09:44:00</td><td>2138.70</td><td>1060</td><td>55.91</td><td>2137.40</td><td>1.18</td><td>2138.08</td><td>HOLD</td></tr>
+  <tr><td>BHEL_NS</td><td>2026-06-25 09:44:00</td><td>404.60</td><td>20187</td><td>46.46</td><td>404.99</td><td>0.06</td><td>405.13</td><td>HOLD</td></tr>
+  <tr><td>BSE_NS</td><td>2026-06-25 09:44:00</td><td>3864.40</td><td>15249</td><td>31.07</td><td>3877.44</td><td>-9.63</td><td>3871.45</td><td>HOLD</td></tr>
+  <tr><td>COFORGE_NS</td><td>2026-06-25 09:44:00</td><td>1511.60</td><td>15918</td><td>59.10</td><td>1508.55</td><td>0.06</td><td>1507.87</td><td>HOLD</td></tr>
+  <tr><td>COLPAL_NS</td><td>2026-06-25 09:44:00</td><td>1987.00</td><td>94</td><td>52.77</td><td>1986.71</td><td>1.07</td><td>1988.69</td><td>HOLD</td></tr>
+  <tr><td>DABUR_NS</td><td>2026-06-25 09:44:00</td><td>426.45</td><td>2182</td><td>49.61</td><td>426.65</td><td>0.28</td><td>427.20</td><td>HOLD</td></tr>
+  <tr><td>DIXON_NS</td><td>2026-06-25 09:44:00</td><td>12139.00</td><td>1848</td><td>45.14</td><td>12144.08</td><td>-11.43</td><td>12136.51</td><td>HOLD</td></tr>
+  <tr><td>FEDERALBNK_NS</td><td>2026-06-25 09:44:00</td><td>323.80</td><td>9206</td><td>45.54</td><td>323.98</td><td>-0.03</td><td>324.08</td><td>HOLD</td></tr>
+  <tr><td>FORTIS_NS</td><td>2026-06-25 09:44:00</td><td>970.60</td><td>388</td><td>46.07</td><td>970.88</td><td>-0.58</td><td>970.42</td><td>HOLD</td></tr>
+  <tr><td>GMRAIRPORT_NS</td><td>2026-06-25 09:44:00</td><td>109.42</td><td>45656</td><td>47.03</td><td>109.50</td><td>0.01</td><td>109.56</td><td>HOLD</td></tr>
+  <tr><td>GODREJPROP_NS</td><td>2026-06-25 09:44:00</td><td>1845.20</td><td>420</td><td>48.90</td><td>1845.65</td><td>-0.28</td><td>1847.02</td><td>HOLD</td></tr>
+  <tr><td>HAVELLS_NS</td><td>2026-06-25 09:44:00</td><td>1192.90</td><td>561</td><td>55.33</td><td>1192.08</td><td>-0.14</td><td>1191.67</td><td>HOLD</td></tr>
+  <tr><td>HEROMOTOCO_NS</td><td>2026-06-25 09:44:00</td><td>5004.00</td><td>1276</td><td>51.70</td><td>5002.33</td><td>0.34</td><td>5004.24</td><td>HOLD</td></tr>
+  <tr><td>HINDPETRO_NS</td><td>2026-06-25 09:44:00</td><td>415.70</td><td>12421</td><td>37.62</td><td>416.31</td><td>-0.38</td><td>416.02</td><td>HOLD</td></tr>
+  <tr><td>ICICIBANK_NS</td><td>2026-06-25 09:44:00</td><td>1386.70</td><td>31038</td><td>49.20</td><td>1386.87</td><td>0.09</td><td>1386.64</td><td>HOLD</td></tr>
 </table>
 
