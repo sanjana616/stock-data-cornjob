@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-23 15:53:21 IST
+Last updated: 2026-07-23 17:38:05 IST
 
 ## 📊 MARKET INDEXES
 
@@ -16,11 +16,11 @@ Last updated: 2026-07-23 15:53:21 IST
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>ALKEM_NS</td><td>2026-07-23 15:27:00</td><td>5607.50</td><td>431</td><td>60.51</td><td>5602.07</td><td>1.75</td><td>5602.46</td><td>BUY</td></tr>
-  <tr><td>APLAPOLLO_NS</td><td>2026-07-23 15:27:00</td><td>1832.30</td><td>3578</td><td>57.17</td><td>1830.87</td><td>0.42</td><td>1831.48</td><td>HOLD</td></tr>
+  <tr><td>ALKEM_NS</td><td>2026-07-23 15:28:00</td><td>5611.50</td><td>552</td><td>65.19</td><td>5602.96</td><td>2.29</td><td>5603.14</td><td>BUY</td></tr>
+  <tr><td>APLAPOLLO_NS</td><td>2026-07-23 15:28:00</td><td>1831.90</td><td>1811</td><td>55.28</td><td>1830.97</td><td>0.46</td><td>1831.40</td><td>HOLD</td></tr>
   <tr><td>ASHOKLEY_NS</td><td>2026-07-23 15:28:00</td><td>150.82</td><td>92960</td><td>61.11</td><td>150.70</td><td>0.04</td><td>150.72</td><td>BUY</td></tr>
   <tr><td>AUBANK_NS</td><td>2026-07-23 15:28:00</td><td>986.00</td><td>64932</td><td>82.48</td><td>976.49</td><td>1.56</td><td>979.11</td><td>BUY</td></tr>
-  <tr><td>AUROPHARMA_NS</td><td>2026-07-23 15:27:00</td><td>1526.30</td><td>3509</td><td>64.03</td><td>1524.02</td><td>1.25</td><td>1524.07</td><td>BUY</td></tr>
+  <tr><td>AUROPHARMA_NS</td><td>2026-07-23 15:28:00</td><td>1526.50</td><td>4010</td><td>64.74</td><td>1524.25</td><td>1.29</td><td>1524.22</td><td>BUY</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-07-23 15:28:00</td><td>2175.80</td><td>6795</td><td>56.23</td><td>2174.62</td><td>0.33</td><td>2174.20</td><td>HOLD</td></tr>
   <tr><td>BHEL_NS</td><td>2026-07-23 15:28:00</td><td>408.30</td><td>127330</td><td>31.08</td><td>409.40</td><td>-0.17</td><td>409.47</td><td>SELL</td></tr>
   <tr><td>BSE_NS</td><td>2026-07-23 15:28:00</td><td>3579.00</td><td>8252</td><td>48.12</td><td>3579.01</td><td>-1.14</td><td>3578.43</td><td>HOLD</td></tr>
