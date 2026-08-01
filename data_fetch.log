@@ -4169,3 +4169,53 @@
 2026-08-01 21:25:45,729 - INFO - [ICICIBANK_NS] Inserted 374 rows (duplicates ignored)
 2026-08-01 21:25:45,729 - INFO - Inserted 374 rows for ICICIBANK.NS
 2026-08-01 21:25:45,745 - INFO - Cycle complete. README updated.
+2026-08-01 22:26:55,480 - INFO - Starting data fetch cycle...
+2026-08-01 22:26:55,799 - INFO - [NSEI] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:55,800 - INFO - Inserted 374 rows for ^NSEI
+2026-08-01 22:26:55,953 - INFO - [NSEBANK] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:55,953 - INFO - Inserted 374 rows for ^NSEBANK
+2026-08-01 22:26:56,075 - INFO - [BSESN] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,075 - INFO - Inserted 374 rows for ^BSESN
+2026-08-01 22:26:56,200 - INFO - [NSEMDCP50] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,200 - INFO - Inserted 374 rows for ^NSEMDCP50
+2026-08-01 22:26:56,333 - INFO - [ALKEM_NS] Inserted 372 rows (duplicates ignored)
+2026-08-01 22:26:56,333 - INFO - Inserted 372 rows for ALKEM.NS
+2026-08-01 22:26:56,481 - INFO - [APLAPOLLO_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,482 - INFO - Inserted 374 rows for APLAPOLLO.NS
+2026-08-01 22:26:56,653 - INFO - [ASHOKLEY_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,653 - INFO - Inserted 374 rows for ASHOKLEY.NS
+2026-08-01 22:26:56,790 - INFO - [AUBANK_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,790 - INFO - Inserted 374 rows for AUBANK.NS
+2026-08-01 22:26:56,946 - INFO - [AUROPHARMA_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:56,947 - INFO - Inserted 374 rows for AUROPHARMA.NS
+2026-08-01 22:26:57,100 - INFO - [BHARATFORG_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,100 - INFO - Inserted 374 rows for BHARATFORG.NS
+2026-08-01 22:26:57,244 - INFO - [BHEL_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,245 - INFO - Inserted 374 rows for BHEL.NS
+2026-08-01 22:26:57,389 - INFO - [BSE_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,390 - INFO - Inserted 374 rows for BSE.NS
+2026-08-01 22:26:57,547 - INFO - [COFORGE_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,547 - INFO - Inserted 374 rows for COFORGE.NS
+2026-08-01 22:26:57,685 - INFO - [COLPAL_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,685 - INFO - Inserted 374 rows for COLPAL.NS
+2026-08-01 22:26:57,832 - INFO - [DABUR_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,832 - INFO - Inserted 374 rows for DABUR.NS
+2026-08-01 22:26:57,967 - INFO - [DIXON_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:57,967 - INFO - Inserted 374 rows for DIXON.NS
+2026-08-01 22:26:58,154 - INFO - [FEDERALBNK_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,154 - INFO - Inserted 374 rows for FEDERALBNK.NS
+2026-08-01 22:26:58,279 - INFO - [FORTIS_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,279 - INFO - Inserted 374 rows for FORTIS.NS
+2026-08-01 22:26:58,404 - INFO - [GMRAIRPORT_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,405 - INFO - Inserted 374 rows for GMRAIRPORT.NS
+2026-08-01 22:26:58,547 - INFO - [GODREJPROP_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,547 - INFO - Inserted 374 rows for GODREJPROP.NS
+2026-08-01 22:26:58,719 - INFO - [HAVELLS_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,719 - INFO - Inserted 374 rows for HAVELLS.NS
+2026-08-01 22:26:58,938 - INFO - [HEROMOTOCO_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:58,938 - INFO - Inserted 374 rows for HEROMOTOCO.NS
+2026-08-01 22:26:59,093 - INFO - [HINDPETRO_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:59,093 - INFO - Inserted 374 rows for HINDPETRO.NS
+2026-08-01 22:26:59,247 - INFO - [ICICIBANK_NS] Inserted 374 rows (duplicates ignored)
+2026-08-01 22:26:59,248 - INFO - Inserted 374 rows for ICICIBANK.NS
+2026-08-01 22:26:59,266 - INFO - Cycle complete. README updated.
