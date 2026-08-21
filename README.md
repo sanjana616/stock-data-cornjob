@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-21 15:44:28 IST
+Last updated: 2026-08-21 16:18:10 IST
 
 ## 📊 MARKET INDEXES
 
@@ -8,7 +8,7 @@ Last updated: 2026-08-21 15:44:28 IST
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
   <tr><td>NSEI</td><td>2026-08-21 15:28:00</td><td>24234.75</td><td>0</td><td>48.30</td><td>24234.86</td><td>-0.35</td><td>-</td><td>HOLD</td></tr>
   <tr><td>NSEBANK</td><td>2026-08-21 15:28:00</td><td>57647.65</td><td>0</td><td>45.99</td><td>57649.26</td><td>-2.35</td><td>-</td><td>HOLD</td></tr>
-  <tr><td>BSESN</td><td>2026-08-21 15:27:00</td><td>77538.40</td><td>0</td><td>58.71</td><td>77485.38</td><td>-18.61</td><td>-</td><td>BUY</td></tr>
+  <tr><td>BSESN</td><td>2026-08-21 15:28:00</td><td>77539.72</td><td>0</td><td>58.92</td><td>77490.56</td><td>-11.99</td><td>-</td><td>BUY</td></tr>
   <tr><td>NSEMDCP50</td><td>2026-08-21 15:28:00</td><td>18283.00</td><td>0</td><td>38.85</td><td>18284.37</td><td>-1.75</td><td>-</td><td>HOLD</td></tr>
 </table>
 
@@ -23,7 +23,7 @@ Last updated: 2026-08-21 15:44:28 IST
   <tr><td>AUROPHARMA_NS</td><td>2026-08-21 15:13:00</td><td>1613.60</td><td>1940</td><td>69.36</td><td>1612.14</td><td>0.66</td><td>1612.33</td><td>BUY</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-08-21 15:13:00</td><td>2061.00</td><td>2867</td><td>38.88</td><td>2063.31</td><td>-1.49</td><td>2064.13</td><td>SELL</td></tr>
   <tr><td>BHEL_NS</td><td>2026-08-21 15:14:00</td><td>409.60</td><td>7892</td><td>39.74</td><td>410.05</td><td>-0.15</td><td>409.96</td><td>SELL</td></tr>
-  <tr><td>BSE_NS</td><td>2026-08-21 15:13:00</td><td>3235.30</td><td>24085</td><td>51.30</td><td>3234.67</td><td>0.08</td><td>3234.75</td><td>BUY</td></tr>
+  <tr><td>BSE_NS</td><td>2026-08-21 15:14:00</td><td>3238.00</td><td>26340</td><td>56.02</td><td>3234.99</td><td>0.33</td><td>3234.83</td><td>BUY</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-08-21 15:14:00</td><td>1875.00</td><td>15314</td><td>26.30</td><td>1879.18</td><td>-0.88</td><td>1878.67</td><td>SELL</td></tr>
   <tr><td>COLPAL_NS</td><td>2026-08-21 15:14:00</td><td>1890.00</td><td>2326</td><td>54.97</td><td>1889.25</td><td>-0.22</td><td>1889.28</td><td>HOLD</td></tr>
   <tr><td>DABUR_NS</td><td>2026-08-21 15:14:00</td><td>399.10</td><td>4325</td><td>55.86</td><td>398.98</td><td>0.04</td><td>398.94</td><td>HOLD</td></tr>
