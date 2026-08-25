@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-25 15:49:57 IST
+Last updated: 2026-08-25 16:24:33 IST
 
 ## 📊 MARKET INDEXES
 
@@ -35,6 +35,6 @@ Last updated: 2026-08-25 15:49:57 IST
   <tr><td>HAVELLS_NS</td><td>2026-08-25 15:14:00</td><td>1268.50</td><td>2217</td><td>58.01</td><td>1267.30</td><td>-0.04</td><td>1266.75</td><td>HOLD</td></tr>
   <tr><td>HEROMOTOCO_NS</td><td>2026-08-25 15:13:00</td><td>5619.50</td><td>9092</td><td>43.55</td><td>5624.42</td><td>0.28</td><td>5626.26</td><td>SELL</td></tr>
   <tr><td>HINDPETRO_NS</td><td>2026-08-25 15:14:00</td><td>373.55</td><td>49997</td><td>54.88</td><td>373.36</td><td>0.28</td><td>373.43</td><td>HOLD</td></tr>
-  <tr><td>ICICIBANK_NS</td><td>2026-08-25 15:13:00</td><td>1421.00</td><td>62598</td><td>43.88</td><td>1422.17</td><td>-0.02</td><td>1422.40</td><td>SELL</td></tr>
+  <tr><td>ICICIBANK_NS</td><td>2026-08-25 15:14:00</td><td>1420.80</td><td>74051</td><td>42.94</td><td>1422.04</td><td>-0.12</td><td>1422.25</td><td>SELL</td></tr>
 </table>
 
