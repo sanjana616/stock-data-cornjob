@@ -1,15 +1,15 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-09-02 15:27:18 IST
+Last updated: 2026-09-02 19:32:39 IST
 
 ## 📊 MARKET INDEXES
 
 <table>
   <tr><th>Symbol</th><th>Datetime</th><th>Close</th><th>Volume</th><th>RSI</th><th>EMA20</th><th>MACD</th><th>VWAP</th><th>Signal</th></tr>
-  <tr><td>NSEI</td><td>2026-09-02 15:26:00</td><td>23882.85</td><td>0</td><td>59.35</td><td>23879.71</td><td>2.12</td><td>-</td><td>BUY</td></tr>
-  <tr><td>NSEBANK</td><td>2026-09-02 15:26:00</td><td>57087.40</td><td>0</td><td>58.65</td><td>57081.29</td><td>4.88</td><td>-</td><td>BUY</td></tr>
-  <tr><td>BSESN</td><td>2026-09-02 15:11:00</td><td>76442.11</td><td>0</td><td>54.46</td><td>76416.78</td><td>-20.73</td><td>-</td><td>BUY</td></tr>
-  <tr><td>NSEMDCP50</td><td>2026-09-02 15:26:00</td><td>18099.20</td><td>0</td><td>68.13</td><td>18093.26</td><td>5.25</td><td>-</td><td>BUY</td></tr>
+  <tr><td>NSEI</td><td>2026-09-02 15:28:00</td><td>23882.85</td><td>0</td><td>59.35</td><td>23880.28</td><td>2.03</td><td>-</td><td>BUY</td></tr>
+  <tr><td>NSEBANK</td><td>2026-09-02 15:28:00</td><td>57087.40</td><td>0</td><td>58.65</td><td>57082.40</td><td>4.54</td><td>-</td><td>BUY</td></tr>
+  <tr><td>BSESN</td><td>2026-09-02 15:28:00</td><td>76570.35</td><td>0</td><td>68.97</td><td>76467.24</td><td>24.93</td><td>-</td><td>BUY</td></tr>
+  <tr><td>NSEMDCP50</td><td>2026-09-02 15:28:00</td><td>18099.20</td><td>0</td><td>68.13</td><td>18094.34</td><td>4.86</td><td>-</td><td>BUY</td></tr>
 </table>
 
 ## 📈 STOCKS
@@ -23,7 +23,7 @@ Last updated: 2026-09-02 15:27:18 IST
   <tr><td>AUROPHARMA_NS</td><td>2026-09-02 15:14:00</td><td>1665.00</td><td>3897</td><td>57.29</td><td>1656.95</td><td>-2.74</td><td>1654.76</td><td>BUY</td></tr>
   <tr><td>BHARATFORG_NS</td><td>2026-09-02 15:14:00</td><td>2017.10</td><td>3998</td><td>64.61</td><td>2012.76</td><td>0.55</td><td>2012.40</td><td>BUY</td></tr>
   <tr><td>BHEL_NS</td><td>2026-09-02 15:14:00</td><td>425.60</td><td>29106</td><td>63.10</td><td>424.93</td><td>0.00</td><td>424.76</td><td>BUY</td></tr>
-  <tr><td>BSE_NS</td><td>2026-09-02 15:13:00</td><td>3164.30</td><td>27905</td><td>38.65</td><td>3168.35</td><td>-2.01</td><td>3166.48</td><td>SELL</td></tr>
+  <tr><td>BSE_NS</td><td>2026-09-02 15:14:00</td><td>3165.20</td><td>15492</td><td>41.18</td><td>3168.05</td><td>-2.00</td><td>3166.26</td><td>SELL</td></tr>
   <tr><td>COFORGE_NS</td><td>2026-09-02 15:14:00</td><td>1959.60</td><td>8517</td><td>39.73</td><td>1962.29</td><td>-0.49</td><td>1961.63</td><td>HOLD</td></tr>
   <tr><td>COLPAL_NS</td><td>2026-09-02 15:14:00</td><td>1860.00</td><td>2046</td><td>63.68</td><td>1858.44</td><td>0.38</td><td>1858.40</td><td>BUY</td></tr>
   <tr><td>DABUR_NS</td><td>2026-09-02 15:14:00</td><td>379.00</td><td>4373</td><td>54.53</td><td>378.74</td><td>-0.07</td><td>378.59</td><td>BUY</td></tr>
